@@ -1,0 +1,9 @@
+{
+  "name": "Checker Game - Group 6",
+  "version": "0.0.1",
+  "description": "aj83@st-andrews.ac.uk",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
