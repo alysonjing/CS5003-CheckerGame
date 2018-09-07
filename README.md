@@ -16,3 +16,6 @@ In order to run our repository, please follow the instructions below:
 ERROR TESTING
 ---------------
 In ensuring that our code has as few errors as possible, changes were made following tools such as JSLint and in testing with JavaScript try, catch, and finally statements.
+
+Reference:
+HTML/CSS modifed from codethejason
